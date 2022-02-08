@@ -57,7 +57,7 @@ void game_update(void)
 
 	// check input, update simulation, render etc.
 }
-
+// splash screen//
 // use CP_Engine_SetNextGameState to specify this function as the exit function
 // this function will be called once just before leaving the current gamestate
 void game_exit(void)
